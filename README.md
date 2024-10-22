@@ -1,4 +1,4 @@
-# 19CS415-HASH
+# EX-14-HASH ALGORITHM
 # AIM:
 To generate a simple hash of a given message using a custom hash function.
 
